@@ -15,3 +15,42 @@ LeetCode-SQL-Practice/
 ├── ... more problems
 │
 └── README.md
+
+---
+## 🚀 Features
+
+- 📌 Solutions to real LeetCode SQL problems  
+- 💡 Clean and optimized SQL queries  
+- 🧠 Covers fundamental to advanced SQL concepts   
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** SQL  
+- **Platform:** LeetCode  
+
+---
+
+## 📚 Concepts Covered
+
+- SELECT queries  
+- WHERE, GROUP BY, HAVING  
+- JOINs (INNER, LEFT, RIGHT)  
+- Subqueries
+
+---
+
+
+## 🎯 Goals
+
+- Improve SQL problem-solving skills  
+- Master database querying techniques  
+- Prepare for technical interviews  
+- Build consistency in practice  
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a **star ⭐**!
